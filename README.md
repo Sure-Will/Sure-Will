@@ -20,3 +20,9 @@ Currently focused on:
 - STM32 firmware with FreeRTOS, ESP8266, sensors, and cloud upload paths
 - Android utility apps for personal devices and lightweight monitoring
 - C/C++ learning projects, memory models, and practical demos
+
+## Connection
+
+I care a lot about connection. Hideo Kojima's Death Stranding made that idea stay with me: even small links between people can matter.
+
+Feel free to reach me at <wangsure0221@gmail.com>.
