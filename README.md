@@ -21,6 +21,32 @@ Currently focused on:
 - Android utility apps for personal devices and lightweight monitoring
 - C/C++ learning projects, memory models, and practical demos
 
+## GitHub activity
+
+<div align="center">
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/stats-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./profile/stats.svg">
+    <img alt="Sure's GitHub statistics" src="./profile/stats.svg">
+  </picture>
+</a>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./profile/snake.svg">
+  <img alt="A snake moving through Sure's GitHub contribution graph" src="./profile/snake.svg">
+</picture>
+
+</div>
+
+## Contribution skyline
+
+[![Sure's GitHub contribution skyline from 2023 to 2026](./profile/skyline/sure-will-2023-2026.png)](./profile/skyline/sure-will-2023-2026.stl)
+
+An annual 3D snapshot of my GitHub contribution history. Open the model to explore it from every angle.
+
 ## Connection
 
 I care a lot about connection. Hideo Kojima's Death Stranding made that idea stay with me: even small links between people can matter.
