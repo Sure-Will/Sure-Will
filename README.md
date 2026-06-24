@@ -25,7 +25,13 @@ Currently focused on:
 
 <div align="center">
 
-[![Sure's GitHub statistics](./profile/stats.svg)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/stats-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./profile/stats.svg">
+    <img alt="Sure's GitHub statistics" src="./profile/stats.svg">
+  </picture>
+</a>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./profile/snake-dark.svg">
